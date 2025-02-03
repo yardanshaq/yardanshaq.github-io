@@ -1,2 +1,1 @@
 # flu
-# yardanshaq.github-io
